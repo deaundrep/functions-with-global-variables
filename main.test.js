@@ -9,7 +9,7 @@ let squareTheNumber = 4;
 
 let greeting = 'hello'
 
-let firstName = 'Jack'
+let firstName = 'DeAundre'
 
 let calling = 'ringing'
 
@@ -34,7 +34,7 @@ function fullName () {
 }
 
 function phoneCall () {
- calling = 'call ended';
+calling = 'call ended';
 } 
 
 
